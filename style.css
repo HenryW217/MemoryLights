@@ -4,6 +4,7 @@ main{
     background-size: 100em 100em;
 }
 
+
 section{
     display: flex;
     flex-wrap: wrap;
